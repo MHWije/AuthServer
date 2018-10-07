@@ -1,4 +1,4 @@
-# Sample-OAuth-Resource-Server
+# OAuth-Resource-Server
  Demonstrate the role of OAuth resource server 
 <h1>Guidelines</h1>
 <h3>Authorization Server</h3>
